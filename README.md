@@ -1,4 +1,4 @@
-![logo](https://github.com/iamasmit/iamasmit/blob/main/Navy%20Futuristic%20Business%20Facebook%20Cover%20(1).gif)
+![logo](https://github.com/iamasmit/iamasmit/blob/main/Green%20Vibrant%20Professional%20Data%20Analyst%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Asmit Chaudhary</h1>
 <h3 align="center">A passionate Web developer and Mobile App developer from Nepal</h3>
 

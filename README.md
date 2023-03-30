@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamasmit&label=Profile%20views&color=0e75b6&style=flat" alt="iamasmit" /> </p>
 
-- 🌱 I’m currently learning **C#, Php and Laravel**
+- 🌱 I’m currently learning **JAVA, Kotlin, and Android Developer**
 
 - 👯 I’m looking to collaborate on [krishna printing](https://krishnapp.com.np/)
 
 - 👨‍💻 All of my projects are available at [www.asmitchaudhary.com.np](www.asmitchaudhary.com.np)
 
-- 💬 Ask me about **C, MySQL, HTML and CSS**
+- 💬 Ask me about **C, MySQL, HTML, CSS, Php, C# and ASP.NET **
 
 - 📫 How to reach me **asmitreal@gmail.com**
 

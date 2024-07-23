@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamasmit&label=Profile%20views&color=0e75b6&style=flat" alt="iamasmit" /> </p>
 
-- 🌱 I’m currently learning **JData Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
